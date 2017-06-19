@@ -1,6 +1,6 @@
 # PupilTracker
 
-*currently missing reuqirements file*
+*currently missing requirements file*
 
 ```shell
 python pupil_tracker.py --shape-predictor shape_predictor_68_face_landmarks.dat
